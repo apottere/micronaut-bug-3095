@@ -1,0 +1,3 @@
+micronaut:
+  application:
+    name: two-zero-zero-m2

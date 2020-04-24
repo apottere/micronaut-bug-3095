@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: two.zero.zero.m2
+---
+testFramework: kotlintest
+sourceLanguage: kotlin
